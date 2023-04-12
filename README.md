@@ -1,4 +1,4 @@
-#Tango-AFIP Comparador
+# Tango-AFIP Comparador
 
 Este es un programa en Python que compara archivos de AFIP y Tango y muestra las 
 diferencias. Utiliza la biblioteca Streamlit para crear una interfaz gráfica de usuario 
@@ -7,9 +7,10 @@ y la biblioteca Pandas para leer y manipular datos de Excel.
 ## Uso
 Para ejecutar el programa, simplemente ejecute el siguiente comando en una terminal:
 
-"""
+
+```
 streamlit run tango_afip_app.py
-"""
+```
 
 Esto abrirá la interfaz gráfica de usuario en su navegador web.
 
